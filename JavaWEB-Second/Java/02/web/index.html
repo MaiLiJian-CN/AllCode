@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>User</title>
+</head>
+<body>
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>passed</th>
+        <th>email</th>
+        <th>birthday</th>
+    </tr>
+     <tr th:each="user : ${session.list}">
+         <td th:text="${user.getId()}"></td>
+         <td th:text="${user.getName()}"></td>
+         <td th:text="${user.getPassword()}"></td>
+         <td th:text="${user.getEmail()}"></td>
+         <td th:text="${user.getBirthday()}"></td>
+     </tr>
+</table>
+</body>
+</html>

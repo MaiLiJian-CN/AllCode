@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring_01_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_02_base_config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_03_base_instance/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_04_bean_lifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_05_bean_setter/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_06_di_constructor/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_09_datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_11_annotation_bean/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_12_annotation_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_13_annotation_di/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_15_spring_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_16_spring_junit/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_18_aop_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_23_case_handle_password/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_24_case_transfer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

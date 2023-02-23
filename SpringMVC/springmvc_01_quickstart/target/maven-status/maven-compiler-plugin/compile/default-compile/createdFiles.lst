@@ -1,0 +1,3 @@
+com\yichen\controller\UserController.class
+com\yichen\config\ServletContainerInitConfig.class
+com\yichen\config\SpringMvcConfig.class

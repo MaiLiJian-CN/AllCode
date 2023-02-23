@@ -1,0 +1,14 @@
+# 应用名称
+spring.application.name: springboot_13_configuration
+
+
+server:
+  id-address: 192.168.0.2
+  port: -1
+  timeout: -1
+  serverTimeOut: 3
+  dataSize: 10MB
+datasource:
+  driverClassName: com.mysql.jdbc.Driver789
+
+

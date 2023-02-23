@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--1.导入spring的坐标spring-context，对应版本是5.2.10.RELEASE-->
+
+    <!--2.配置bean-->
+    <!--bean标签配置bean id的属性，给bean起名，class表示给bean定义类型-->
+    <!--作用范围默认scope="singleton"单例，地址一致 -->
+    <bean id="bookDao" class="yichen.dao.Impl.BookDaoImpl" scope="prototype" />
+
+    <bean id="bookService" class="yichen.service.Impl.BookServiceImpl" >
+        <property name="bookDao" ref="bookDao"/>
+    </bean>
+</beans>

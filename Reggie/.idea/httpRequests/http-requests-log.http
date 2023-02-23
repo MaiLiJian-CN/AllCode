@@ -1,0 +1,16 @@
+DELETE http://localhost:8080/dish
+
+###
+
+DELETE http://localhost:8080/dish
+
+###
+
+DELETE http://localhost:8080/dish/{{id}}
+
+###
+
+DELETE http://localhost:8080/dish/{{ids}}
+
+###
+

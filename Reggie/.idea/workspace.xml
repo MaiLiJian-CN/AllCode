@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BeansEndpointTabSettings">
+    <option name="showLibraryBeans" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="caa3c439-0601-4626-a649-15e2693458c2" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../soft/apache-maven/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="D:\soft\apache-maven\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29cPAQBVhMHaDDDVfo3DrZjBfdW" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../寒假再刷SpringBoot/StudentSystem" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\code\Reggie\src\main\java\com\yichen\entity" />
+      <recent name="D:\java\code\Reggie\src\main\resources" />
+      <recent name="D:\java\code\Reggie\src\main\resources\front\page" />
+      <recent name="D:\java\code\Reggie\src\main\java\com\yichen\utils" />
+      <recent name="D:\java\code\Reggie\src\main\java\com\yichen\dto" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yichen" />
+      <recent name="com.yichen.server" />
+      <recent name="com.yichen.dao" />
+      <recent name="com.yichen.server.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript 调试.login.html">
+    <configuration name="generated-requests中的所有" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Reggie/backend/page/login/login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/resources/backend/js/index.js" working-dir="$PROJECT_DIR$/src/main/resources/backend/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="ReggieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Reggie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yichen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yichen.ReggieApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ReggieApplication" />
+        <item itemvalue="JavaScript 调试.login.html" />
+        <item itemvalue="HTTP 请求.generated-requests#1" />
+        <item itemvalue="HTTP 请求.generated-requests中的所有" />
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="caa3c439-0601-4626-a649-15e2693458c2" name="变更" comment="" />
+      <created>1653409258406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653409258406</updated>
+      <workItem from="1653409259632" duration="234000" />
+      <workItem from="1653409538893" duration="4670000" />
+      <workItem from="1653458944897" duration="10852000" />
+      <workItem from="1653482253529" duration="4346000" />
+      <workItem from="1653498480046" duration="344000" />
+      <workItem from="1653531473474" duration="7892000" />
+      <workItem from="1653571130316" duration="3632000" />
+      <workItem from="1653580203625" duration="5785000" />
+      <workItem from="1653652777358" duration="2227000" />
+      <workItem from="1653658568810" duration="9925000" />
+      <workItem from="1653716982442" duration="22579000" />
+      <workItem from="1653799598140" duration="662000" />
+      <workItem from="1653801647131" duration="23337000" />
+      <workItem from="1653907420228" duration="14322000" />
+      <workItem from="1653963505288" duration="2981000" />
+      <workItem from="1653976047943" duration="19164000" />
+      <workItem from="1654015162000" duration="536000" />
+      <workItem from="1654138422686" duration="5000" />
+      <workItem from="1654160047428" duration="17000" />
+      <workItem from="1654605485771" duration="1310000" />
+      <workItem from="1654610113848" duration="2618000" />
+      <workItem from="1654692013069" duration="89000" />
+      <workItem from="1657374698825" duration="362000" />
+      <workItem from="1657542692676" duration="66000" />
+      <workItem from="1657878843410" duration="793000" />
+      <workItem from="1663910243120" duration="2514000" />
+      <workItem from="1663997034869" duration="610000" />
+      <workItem from="1674922701078" duration="5369000" />
+      <workItem from="1675010475366" duration="2264000" />
+      <workItem from="1675049538106" duration="609000" />
+      <workItem from="1675060454669" duration="13000" />
+      <workItem from="1676193302293" duration="525000" />
+      <workItem from="1676276868638" duration="7873000" />
+      <workItem from="1677164354754" duration="309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="8" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yichen/filter/LoginCheckFilter.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yichen/filter/LoginCheckFilter.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yichen/filter/LoginCheckFilter.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yichen/controller/UserController.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.baomidou.mybatisplus.extension.plugins.pagination.Page" memberName="total" />
+        <PinnedItemInfo parentTag="org.apache.ibatis.reflection.MetaObject" memberName="objectWrapper" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

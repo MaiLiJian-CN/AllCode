@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="filter-app" />
+        <module name="vue-app" />
+        <module name="tomcat-app" />
+        <module name="book" />
+        <module name="jsp-app" />
+        <module name="element-app" />
+        <module name="web-demo" />
+        <module name="ajax-app" />
+        <module name="cookie-app" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ajax-app" target="7" />
+      <module name="book" target="7" />
+      <module name="cookie-app" target="6" />
+      <module name="element-app" target="6" />
+      <module name="filter-app" target="1.5" />
+      <module name="jsp-app" target="1.5" />
+      <module name="tomcat-app" target="7" />
+      <module name="vue-app" target="6" />
+      <module name="web-demo" target="6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

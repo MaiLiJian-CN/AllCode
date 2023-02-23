@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--1.导入spring的坐标spring-context，对应版本是5.2.10.RELEASE-->
+
+    <!--2.配置bean-->
+    <!--bean标签配置bean id的属性，给bean起名，class表示给bean定义类型-->
+<!--    <bean id="bookDao" class="yichen.dao.Impl.BookDaoImpl" init-method="init" destroy-method="destroy" />-->
+    <bean id="bookDao" class="yichen.dao.Impl.BookDaoImpl">
+        <property name="connectionNumber" value="100"/>
+    </bean>
+
+    <bean id="userDao" class="yichen.dao.Impl.UserDaoImpl"/>
+
+    <bean id="bookService" class="yichen.service.Impl.BookServiceImpl" >
+        <property name="bookDao" ref="bookDao"/>
+        <property name="userDao" ref="userDao"/>
+
+    </bean>
+</beans>

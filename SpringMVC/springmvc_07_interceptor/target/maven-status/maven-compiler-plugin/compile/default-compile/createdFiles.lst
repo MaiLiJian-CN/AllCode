@@ -1,0 +1,6 @@
+com\yichen\config\ServletContainersInitConfig.class
+com\yichen\controller\BookController.class
+com\yichen\domain\Book.class
+com\yichen\controller\Interceptor\ProjectInterceptor.class
+com\yichen\config\SpringMvcConfig.class
+com\yichen\config\SpringMvcSupport.class

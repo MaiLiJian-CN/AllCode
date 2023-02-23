@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [19/Mar/2022:23:41:32 +0800] "GET /cookie-app HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [19/Mar/2022:23:41:32 +0800] "GET /cookie-app/ HTTP/1.1" 404 973 http-bio-8080-exec-3 7
+0:0:0:0:0:0:0:1 - - [19/Mar/2022:23:41:32 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [19/Mar/2022:23:42:07 +0800] "GET /cookie-app/selectAllServlet HTTP/1.1" 200 483 http-bio-8080-exec-5 393

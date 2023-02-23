@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="org.springframework.beans.factory.annotation.Autowired" />
+    </list>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/spring_05_rest_case" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_01_quickstart" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_02_request_mapping" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_03_request_param" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_04_rest" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_05_rest_case" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_06_ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_07_interceptor" />
+    <type id="Spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springmvc_01_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_02_request_mapping/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_03_request_param/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_04_rest/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_05_rest_case/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_05_rest_case/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_06_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_07_interceptor/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

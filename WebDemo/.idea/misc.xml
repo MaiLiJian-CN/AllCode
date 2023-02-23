@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ajax-app" />
+    <file type="web" url="file://$PROJECT_DIR$/book" />
+    <file type="web" url="file://$PROJECT_DIR$/cookie-app" />
+    <file type="web" url="file://$PROJECT_DIR$/element-app" />
+    <file type="web" url="file://$PROJECT_DIR$/filter-app" />
+    <file type="web" url="file://$PROJECT_DIR$/jsp-app" />
+    <file type="web" url="file://$PROJECT_DIR$/tomcat-app" />
+    <file type="web" url="file://$PROJECT_DIR$/vue-app" />
+    <file type="web" url="file://$PROJECT_DIR$/web-demo" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/tomcat-app/pom.xml" />
+        <option value="$PROJECT_DIR$/jsp-app/pom.xml" />
+        <option value="$PROJECT_DIR$/cookie-app/pom.xml" />
+        <option value="$PROJECT_DIR$/filter-app/pom.xml" />
+        <option value="$PROJECT_DIR$/vue-app/pom.xml" />
+        <option value="$PROJECT_DIR$/element-app/pom.xml" />
+        <option value="$PROJECT_DIR$/book/pom.xml" />
+        <option value="$PROJECT_DIR$/web-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/ajax-app/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>登录</title>
+</head>
+<body>
+<table align="center">
+    <form action="/mailijian1218/login" method="post">
+        <tr>
+            <td>
+                用户名:
+            </td>
+            <td>
+            <input type="text" name="name">
+            </td>
+        </tr>
+        <tr>
+            <td>密码:</td>
+            <td>
+                <input type="password" name="passwd">
+            </td>
+        </tr>
+        <tr>
+            <td>
+            验证码
+            </td>
+            <td><input type="text" name="check_code"></td>
+            <td>
+                <img src="/mailijian1218/CheckServlet">
+            </td>
+        </tr>
+        <tr>
+            <td><button type="submit">提交</button></td>
+        </tr>
+    </form>
+</table>
+</body>
+</html>

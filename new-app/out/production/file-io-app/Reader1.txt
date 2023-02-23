@@ -1,0 +1,11 @@
+    public static void main(String[] args) {
+            //������һ���ֽ�����ܵ���
+            //������һ���ֽ�����ܵ���
+            //�����ֽ������������
+            int len;
+                os.write(bytes,0,len);
+            os.close();
+            System.out.println("�������");
+        } catch (Exception e) {
+        }
+}

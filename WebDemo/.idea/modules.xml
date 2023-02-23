@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WebDemo.iml" filepath="$PROJECT_DIR$/WebDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ajax-app/ajax-app.iml" filepath="$PROJECT_DIR$/ajax-app/ajax-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookie-app/cookie-app.iml" filepath="$PROJECT_DIR$/cookie-app/cookie-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/element-app/element-app.iml" filepath="$PROJECT_DIR$/element-app/element-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filter-app/filter-app.iml" filepath="$PROJECT_DIR$/filter-app/filter-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsp-app/jsp-app.iml" filepath="$PROJECT_DIR$/jsp-app/jsp-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat-app/tomcat-app.iml" filepath="$PROJECT_DIR$/tomcat-app/tomcat-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vue-app/vue-app.iml" filepath="$PROJECT_DIR$/vue-app/vue-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-demo/web-demo.iml" filepath="$PROJECT_DIR$/web-demo/web-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web01-app/web01-app.iml" filepath="$PROJECT_DIR$/web01-app/web01-app.iml" />
+    </modules>
+  </component>
+</project>

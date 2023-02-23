@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LogBack-app/LogBack-app.iml" filepath="$PROJECT_DIR$/LogBack-app/LogBack-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file-io-app/file-io-app.iml" filepath="$PROJECT_DIR$/file-io-app/file-io-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home/home.iml" filepath="$PROJECT_DIR$/home/home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ip-app/ip-app.iml" filepath="$PROJECT_DIR$/ip-app/ip-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movie-app/movie-app.iml" filepath="$PROJECT_DIR$/movie-app/movie-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/regex/regex.iml" filepath="$PROJECT_DIR$/regex/regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-app/thread-app.iml" filepath="$PROJECT_DIR$/thread-app/thread-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xml-app/xml-app.iml" filepath="$PROJECT_DIR$/xml-app/xml-app.iml" />
+    </modules>
+  </component>
+</project>

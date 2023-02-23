@@ -1,0 +1,7 @@
+com\yichen\util\SqlSessionFactoryUtils.class
+com\yichen\mapper\BrandMapper.class
+com\yichen\service\impl\BrandServiceImpl.class
+com\yichen\web\servlet\SelectAllServlet.class
+com\yichen\pojo\Brand.class
+com\yichen\web\servlet\AddServlet.class
+com\yichen\service\BrandService.class

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>初识vue</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js">
+
+    </script>
+</head>
+<body>
+    <!-- 准备好容器 -->
+    <div id="root">
+        <h1>Hello {{name}}</h1>
+    </div>
+    <script>
+        Vue.config.productionTip=false//阻止生产模式提示
+        
+        //创建Vue实例
+        const vue=new Vue({
+            el:'#root',//el指定当前Vue实例为哪个容器服务
+            data:{
+                name:"麦立健"
+            }
+        })
+    </script>
+
+</body>
+</html>

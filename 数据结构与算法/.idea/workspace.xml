@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="308727f1-9db8-4008-9c17-0055588e7bda" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2Cq752TCMOzAK9eydkMD2QCz3fX" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="corretto-1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../python/python爬虫" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\code\数据结构与算法\数组\src\栈" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="核酸日期.Main" />
+      <module name="数组" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="核酸日期.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="元音转换.Main" />
+      <module name="数组" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="元音转换.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="小秘密.Main" />
+      <module name="数组" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="小秘密.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="调和级数.Main" />
+      <module name="数组" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="调和级数.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="晨跑.Main" />
+      <module name="数组" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="晨跑.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.Main (3)" />
+      <item itemvalue="应用程序.Main" />
+      <item itemvalue="应用程序.Main (4)" />
+      <item itemvalue="应用程序.Main (1)" />
+      <item itemvalue="应用程序.Main (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Main (2)" />
+        <item itemvalue="应用程序.Main (1)" />
+        <item itemvalue="应用程序.Main (4)" />
+        <item itemvalue="应用程序.Main" />
+        <item itemvalue="应用程序.Main (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="308727f1-9db8-4008-9c17-0055588e7bda" name="变更" comment="" />
+      <created>1659518075551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659518075551</updated>
+      <workItem from="1659518076853" duration="10578000" />
+      <workItem from="1659542240537" duration="104000" />
+      <workItem from="1659582435247" duration="920000" />
+      <workItem from="1660042594940" duration="42000" />
+      <workItem from="1660042778305" duration="19000" />
+      <workItem from="1660047393100" duration="226000" />
+      <workItem from="1660229694320" duration="12456000" />
+      <workItem from="1660291493803" duration="1866000" />
+      <workItem from="1660303785660" duration="8638000" />
+      <workItem from="1660356657048" duration="18948000" />
+      <workItem from="1660455964478" duration="12723000" />
+      <workItem from="1660624386708" duration="61000" />
+      <workItem from="1660650156270" duration="6141000" />
+      <workItem from="1660723932799" duration="6547000" />
+      <workItem from="1661172904047" duration="2267000" />
+      <workItem from="1665848688446" duration="4184000" />
+      <workItem from="1665990642219" duration="6122000" />
+      <workItem from="1666159578763" duration="11781000" />
+      <workItem from="1666194189908" duration="1674000" />
+      <workItem from="1666280328985" duration="620000" />
+      <workItem from="1666349261970" duration="316000" />
+      <workItem from="1666505805735" duration="50000" />
+      <workItem from="1666505974507" duration="13604000" />
+      <workItem from="1666534172422" duration="849000" />
+      <workItem from="1666579302739" duration="6941000" />
+      <workItem from="1666752855183" duration="147000" />
+      <workItem from="1666937013453" duration="5184000" />
+      <workItem from="1667013128505" duration="6974000" />
+      <workItem from="1667048378264" duration="4441000" />
+      <workItem from="1667143885351" duration="6712000" />
+      <workItem from="1667187935730" duration="3253000" />
+      <workItem from="1667462690343" duration="234000" />
+      <workItem from="1667532397084" duration="1741000" />
+      <workItem from="1667579058928" duration="3348000" />
+      <workItem from="1667626292163" duration="1179000" />
+      <workItem from="1670049150124" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/数组/src/队列/MyCircleArrQueueDemo.java</url>
+          <line>112</line>
+          <properties class="队列.MyCircleArrQueue" method="size">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/数组/src/队列/MyCircleArrQueueDemo.java</url>
+          <line>103</line>
+          <properties class="队列.MyCircleArrQueue" method="showQueue">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/数组/src/链表/SingleLinkedListDemo.java</url>
+          <line>67</line>
+          <properties class="链表.SingleLinkedList" method="addByOrder">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/数组/src/链表/DoubleLinkedListDemo.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/数组/src/栈/PoLangStack.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/数组/src/Solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/数组/src/比正整数大的数/Main.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/数组/src/卡片/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/数组/src/分治递归/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="21" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

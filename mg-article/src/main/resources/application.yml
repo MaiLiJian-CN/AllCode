@@ -1,0 +1,13 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://root:123456@192.168.0.103:27017/article
+#      # 主机地址
+#      host: 192.168.0.103
+#      # 数据库
+#      database: article
+#      # 默认端口是27017
+#      port: 27017
+#      username:
+#      password: "123456"
+

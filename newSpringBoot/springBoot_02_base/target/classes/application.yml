@@ -1,0 +1,5 @@
+#server:
+#  port: 81
+
+dir: D:soft\
+basedir: ${dir}goland\

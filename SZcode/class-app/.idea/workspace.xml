@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60b25167-bb04-4fb5-b932-edb20e9d7d76" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26ZBezx47tAWPmTKjOfjzb0Z5hR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaWeb" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="应用程序.HomeDemo5">
+    <configuration name="HomeDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yichen.szpt.HomeDemo5" />
+      <module name="class-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yichen.szpt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yichen.szpt.HomeWork3" />
+      <module name="class-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yichen.szpt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yichen.szpt.HomeWork4" />
+      <module name="class-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yichen.szpt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PingWei" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yichen.szpt.PingWei" />
+      <module name="class-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yichen.szpt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShuiXian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yichen.szpt.ShuiXian" />
+      <module name="class-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yichen.szpt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.HomeDemo5" />
+        <item itemvalue="应用程序.HomeWork4" />
+        <item itemvalue="应用程序.HomeWork3" />
+        <item itemvalue="应用程序.PingWei" />
+        <item itemvalue="应用程序.ShuiXian" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="60b25167-bb04-4fb5-b932-edb20e9d7d76" name="变更" comment="" />
+      <created>1647621327999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647621327999</updated>
+      <workItem from="1647621329103" duration="36000" />
+      <workItem from="1647823486820" duration="3182000" />
+      <workItem from="1647881579010" duration="2464000" />
+      <workItem from="1647959768787" duration="596000" />
+      <workItem from="1648111006029" duration="8384000" />
+      <workItem from="1648173859617" duration="2162000" />
+      <workItem from="1648195518761" duration="114000" />
+      <workItem from="1648773744931" duration="1666000" />
+      <workItem from="1648799202184" duration="1503000" />
+      <workItem from="1648864486176" duration="7080000" />
+      <workItem from="1649397345638" duration="756000" />
+      <workItem from="1649515959202" duration="1254000" />
+      <workItem from="1649600700302" duration="13000" />
+      <workItem from="1649600888816" duration="1209000" />
+      <workItem from="1649672425381" duration="2363000" />
+      <workItem from="1649701100416" duration="697000" />
+      <workItem from="1649764776591" duration="1000" />
+      <workItem from="1649777156460" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

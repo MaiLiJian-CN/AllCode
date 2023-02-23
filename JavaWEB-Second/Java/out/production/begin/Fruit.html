@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>水果价格表</title>
+    <script src="./Fruit-event.js"></script>
+    <style>
+        body {
+            background-color: lightblue;
+        }
+
+        div {
+            width: 600px;
+            height: 500px;
+            margin: 0 auto;
+        }
+
+        table {
+            width: 100%;
+            text-align: center;
+            border-collapse: collapse;
+        }
+
+        td {
+            text-align: center;
+            border: 1px solid black;
+
+        }
+
+        tr {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <table style="border: 1px solid black;">
+            <tr>
+                <td onmouseover="showBGC()">名称</td>
+                <td>单价</td>
+                <td>数量</td>
+                <td>小计</td>
+                <td>操作</td>
+            </tr>
+            <tr>
+                <td>苹果</td>
+                <td>5</td>
+                <td>20</td>
+                <td>100</td>
+                <td>×</td>
+            </tr>
+            <tr>
+                <td>鸭梨</td>
+                <td>5</td>
+                <td>20</td>
+                <td>100</td>
+                <td>×</td>
+            <tr>
+                <td>西瓜</td>
+                <td>5</td>
+                <td>20</td>
+                <td>100</td>
+                <td>×</td>
+            </tr>
+            <tr>
+                <td>榴莲</td>
+                <td>5</td>
+                <td>20</td>
+                <td>100</td>
+                <td>×</td>
+            </tr>
+            <tr>
+                <td>总计</td>
+                <td colspan="4">999</td>
+            </tr>
+        </table>
+    </div>
+</body>
+
+</html>

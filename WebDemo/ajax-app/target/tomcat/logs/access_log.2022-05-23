@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [23/May/2022:17:54:30 +0800] "GET /ajax-app HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [23/May/2022:17:54:30 +0800] "GET /ajax-app/ HTTP/1.1" 404 969 http-bio-8080-exec-3 12
+0:0:0:0:0:0:0:1 - - [23/May/2022:17:54:34 +0800] "GET /ajax-app/ajax01 HTTP/1.1" 200 10 http-bio-8080-exec-4 1
+0:0:0:0:0:0:0:1 - - [23/May/2022:17:54:48 +0800] "GET /ajax-app/ajax01 HTTP/1.1" 200 10 http-bio-8080-exec-6 2
+0:0:0:0:0:0:0:1 - - [23/May/2022:17:54:48 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [23/May/2022:17:55:28 +0800] "GET /ajax-app/ajax01 HTTP/1.1" 200 10 http-bio-8080-exec-1 18
+0:0:0:0:0:0:0:1 - - [23/May/2022:17:55:29 +0800] "GET /ajax-app/ajax01 HTTP/1.1" 200 10 http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [23/May/2022:17:55:29 +0800] "GET /ajax-app/ajax01 HTTP/1.1" 200 10 http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [23/May/2022:17:55:29 +0800] "GET /ajax-app/ajax01 HTTP/1.1" 200 10 http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [23/May/2022:17:55:31 +0800] "GET /ajax-app/ajax01 HTTP/1.1" 200 10 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [23/May/2022:17:55:32 +0800] "GET /ajax-app/ajax01 HTTP/1.1" 200 10 http-bio-8080-exec-7 0
